@@ -1,5 +1,6 @@
 {
   "image": "pschmitt/hassio-addon-{arch}-flicd",
+  "arch": ["amd64", "i386", "armhf"],
   "name": "flicd",
   "version": "1.2",
   "slug": "flicd",
